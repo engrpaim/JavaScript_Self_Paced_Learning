@@ -1,5 +1,6 @@
-# JavaScript_Self_Paced_Learning
-Simple Sign up using  JS
+# Simple Sign up using  JS
+
+this is my simple coding practice 
 
 
 
